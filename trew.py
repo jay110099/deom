@@ -1,3 +1,0 @@
-print('jaxdfcgvhbyesh')
-
-print('jaxdfcgvhbyesh')
